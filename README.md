@@ -1,6 +1,4 @@
-## Hi there 👋 I’m Minal Indrabhan Randive  
-
-### Who’s Minal and What’s She Building in Data? 👩‍💻📊
+ ## Who’s Minal and What’s She Building in Data? 👩‍💻📊
 
 Hi 👋 I’m an aspiring **Data Analyst** actively building hands-on analytics projects to strengthen my skills and prepare for full-time **Data Analyst / Business Analyst** roles.
 
