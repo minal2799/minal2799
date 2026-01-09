@@ -2,7 +2,7 @@
 
 Hi 👋 I’m **Minal Indrabhan Randive**, an aspiring **Data Analyst / Business Analyst** passionate about exploring data, asking the right questions, and turning raw information into meaningful, business-ready insights.
 
-While I don’t yet have formal industry experience, I’ve built **multiple end-to-end analytics projects** using real-world datasets — working through the entire data lifecycle from **data cleaning and feature engineering to exploratory analysis, SQL querying, and interactive dashboard creation**.
+While I don’t yet have formal industry experience, I’ve built **multiple end-to-end analytics projects** using real-world datasets working through the entire data lifecycle from **data cleaning and feature engineering to exploratory analysis, SQL querying, and interactive dashboard creation**.
 
 I’m especially interested in **customer behavior analysis, business metrics, and data storytelling**, and I continuously strengthen my skills by building practical, hands-on projects that reflect how analytics is used in real organizations.
 
