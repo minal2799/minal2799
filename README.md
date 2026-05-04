@@ -1,6 +1,6 @@
 ## Who's Minal and What's She Building in Data? 👩‍💻📊
 
-Hi 👋 I'm **Minal Indrabhan Randive**, an aspiring **Data Engineer / Data Analyst** passionate about building reliable data pipelines, designing scalable architectures, and turning raw data into analytics-ready datasets that power real business decisions.
+Hi 👋 I'm **Minal Indrabhan Randive**, an aspiring **Data Engineer / Data Analyst / Analytics Engineer** passionate about building reliable data pipelines, designing scalable architectures, and turning raw data into analytics-ready datasets that power real business decisions.
 
 I've built **multiple end-to-end data engineering and analytics projects** using real-world datasets working through the entire data lifecycle from **ELT pipeline design and data modeling to SQL querying, dbt transformations, and interactive dashboard creation**.
 
