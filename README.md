@@ -6,7 +6,7 @@ I've built **multiple end-to-end data engineering and analytics projects** using
 
 I'm especially interested in **medallion architecture, cloud data warehousing, and data storytelling**, and I continuously strengthen my skills by building practical, hands-on projects that reflect how data engineering and analytics are used in real organizations.
 
-✨ **My goal** is to grow as a data professional and contribute to impactful, data-driven decision-making in a full-time **Data Engineer or Data Analyst** role.
+✨ **My goal** is to grow as a data professional and contribute to impactful, data-driven decision-making in a full-time **Data Engineer/Data Analyst/Analytics engineer** role.
 
 ---
 
